@@ -1,0 +1,49 @@
+/* Primary Colors */
+.primary-color1 {
+  color: #007bff; /* Blue */
+}
+
+.primary-bg1 {
+  background-color: #007bff; /* Blue */
+}
+
+.primary-color2 {
+  color: #ff0000; /* Red */
+}
+
+.primary-bg2 {
+  background-color: #ff0000; /* Red */
+}
+
+.primary-color3 {
+  color: #28a745; /* Green */
+}
+
+.primary-bg3 {
+  background-color: #28a745; /* Green */
+}
+
+/* Secondary Colors */
+.secondary-color1 {
+  color: #6c757d; /* Gray */
+}
+
+.secondary-bg1 {
+  background-color: #6c757d; /* Gray */
+}
+
+.secondary-color2 {
+  color: #ffd700; /* Yellow */
+}
+
+.secondary-bg2 {
+  background-color: #ffd700; /* Yellow */
+}
+
+.secondary-color3 {
+  color: #ff1493; /* Pink */
+}
+
+.secondary-bg3 {
+  background-color: #ff1493; /* Pink */
+}
